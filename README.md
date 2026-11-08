@@ -1,7 +1,6 @@
 
 # CargoLens AI
 
-Starter structure for the CargoLens AI take-home project.
 
 ## Frontend
 ```powershell
